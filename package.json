@@ -1,6 +1,8 @@
 {
   "name": "crud-list",
   "version": "0.0.0",
+  "author": "Hisham Mohammed",
+  "description": "This an Angular project built using angular material and uses json-server for api implementation...Also uses Reactive Forms",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -11,10 +13,12 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "^14.2.0",
+    "@angular/cdk": "^13.0.0",
     "@angular/common": "^14.2.0",
     "@angular/compiler": "^14.2.0",
     "@angular/core": "^14.2.0",
     "@angular/forms": "^14.2.0",
+    "@angular/material": "^13.0.0",
     "@angular/platform-browser": "^14.2.0",
     "@angular/platform-browser-dynamic": "^14.2.0",
     "@angular/router": "^14.2.0",

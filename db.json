@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Apples",
+      "category": "Fruits",
+      "date": "2023-01-02T21:00:00.000Z",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "Fresh Apples",
+      "id": 1
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "date": "2022-12-31T21:00:00.000Z",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "Fresh Banana",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
